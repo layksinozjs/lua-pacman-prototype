@@ -9,6 +9,7 @@ This project demonstrates basic 2D game mechanics such as movement, collision de
 ## 🔧 Features
 
 - 🟡 Pac-Man-like player that moves across the screen
+- 🖱️ Mouse following system with love.keypressed
 - 🍒 Collision detection with boxes (blocks)
 - 🧠 Basic scoring system
 - 📦 Box spawning and respawning system
